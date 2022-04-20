@@ -1,0 +1,18 @@
+.card
+{
+    width: 40rem;
+    height: 25rem;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.card-body
+{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.changeItem
+{
+    /* text-align: center; */
+    color: orange;
+}
